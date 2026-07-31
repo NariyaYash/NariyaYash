@@ -12,7 +12,7 @@
 ## 🌌 About Me
 
 * **Who I am:** I am a passionate MERN Stack Developer and Prompt Engineer dedicated to the future of AI-driven development. 
-* **Experience:** With 1 year of internship experience at Creative Encode Technology (Nov 2024 – Nov 2025), I specialize in crafting responsive interfaces and secure APIs.
+* **Experience:** With 1+ year of experience at Creative Encode Technology (Nov 2024 – may 2026), I specialize in crafting responsive interfaces and secure APIs.
 * **Education:** Holding a Bachelor of Vocation (B.Voc) in IT, I have hands-on experience delivering real-world projects and possess sharp skills in Prompt Engineering.
 * **My Mindset:** I am a continuous learner, always exploring new ways to integrate AI tools and Prompt Engineering into my development workflow to build smarter, faster, and more efficient digital solutions.
 
